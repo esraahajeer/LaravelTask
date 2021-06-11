@@ -1,0 +1,13 @@
+body{
+    background-color: red;
+}
+table {
+    border: 1px solid black;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+      text-align: center;
+  
+  }
